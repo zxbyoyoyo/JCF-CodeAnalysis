@@ -18,12 +18,12 @@ excerpt_type: text # text (default), html
 
 具体内容安排如下：
 
-1. [Overview](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/1-Overview.md) 对Java Collections Framework，以及Java语言特性做出基本介绍。
-2. [ArrayList](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2-ArrayList.md) 结合源码对*ArrayList*进行讲解。
-3. [LinkedList](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/3-LinkedList.md) 结合源码对*LinkedList*进行讲解。
-4. [Stack and Queue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/4-Stack%20and%20Queue.md) 以*AarryDeque*为例讲解*Stack*和*Queue*。
-5. [TreeSet and TreeMap](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/5-TreeSet%20and%20TreeMap.md) 结合源码对*TreeSet*和*TreeMap*进行讲解。
-6. [HashSet and HashMap](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/6-HashSet%20and%20HashMap.md) 结合源码对*HashSet*和*HashMap*进行讲解。
-7. [LinkedHashSet and LinkedHashMap](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/7-LinkedHashSet%20and%20LinkedHashMap.md) 结合源码对*LinkedHashSet*和*LinkedHashMap*进行讲解。
-8. [PriorityQueue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/8-PriorityQueue.md) 结合源码对*PriorityQueue*进行讲解。
-9. [WeakHashMap](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/9-WeakHashMap.md) 对*WeakHashMap*做出基本介绍。
+1. [Overview](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-11-JCF-Overview.md) 对Java Collections Framework，以及Java语言特性做出基本介绍。
+2. [ArrayList](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-12-JCF-ArrayList.md) 结合源码对*ArrayList*进行讲解。
+3. [LinkedList](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-13-JCF-LinkedList.md) 结合源码对*LinkedList*进行讲解。
+4. [Stack and Queue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-14-JCF-Stack%20and%20Queue.md) 以*AarryDeque*为例讲解*Stack*和*Queue*。
+5. [TreeSet and TreeMap](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-15-JCF-TreeSet%20and%20TreeMap.md) 结合源码对*TreeSet*和*TreeMap*进行讲解。
+6. [HashSet and HashMap](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-16-JCF-HashSet%20and%20HashMap.md) 结合源码对*HashSet*和*HashMap*进行讲解。
+7. [LinkedHashSet and LinkedHashMap](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-17-JCF-LinkedHashSet%20and%20LinkedHashMap.md) 结合源码对*LinkedHashSet*和*LinkedHashMap*进行讲解。
+8. [PriorityQueue](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-18-JCF-PriorityQueue.md) 结合源码对*PriorityQueue*进行讲解。
+9. [WeakHashMap](https://github.com/CarpenterLee/JCFInternals/blob/master/markdown/2017-05-19-JCF-WeakHashMap.md) 对*WeakHashMap*做出基本介绍。
